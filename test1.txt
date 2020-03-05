@@ -1,2 +1,0 @@
-官网下载地址：https://git-scm.com/download/win
-安装步骤：https://blog.csdn.net/qq_38489761/article/details/91925428
