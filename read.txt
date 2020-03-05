@@ -1,0 +1,24 @@
+官网下载地址：https://git-scm.com/download/win
+安装步骤：https://blog.csdn.net/qq_38489761/article/details/91925428
+https://cloud.tencent.com/developer/article/1487508
+下面是一些配置语法：
+git config --global user.name ""   设置用户名
+git config --global user.email ""    设置邮箱
+git config user.name     查看用户名
+git config user.email    查看邮箱
+git config --global user.name "" 修改用户名
+git config --global user.email ""  修改邮箱
+git init 生成.git文件夹
+git add test1.txt添加并提交文件
+ssh-keygen -t rsa -C "1426321293@qq.com"  生成ssh密钥
+3：远程提交
+
+添加新的远程仓库
+
+$git remote add origin https://github.com/JiekeXu0/Mytest.git
+
+其中红色部分的 URL 是 GitHub 中的 SSH
+远程提交：git push origin master
+
+
+
