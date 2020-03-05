@@ -1,24 +1,24 @@
-¹ÙÍøÏÂÔØµØÖ·£ºhttps://git-scm.com/download/win
-°²×°²½Öè£ºhttps://blog.csdn.net/qq_38489761/article/details/91925428
+å®˜ç½‘ä¸‹è½½åœ°å€ï¼šhttps://git-scm.com/download/win
+å®‰è£…æ­¥éª¤ï¼šhttps://blog.csdn.net/qq_38489761/article/details/91925428
 https://cloud.tencent.com/developer/article/1487508
-ÏÂÃæÊÇÒ»Ğ©ÅäÖÃÓï·¨£º
-git config --global user.name ""   ÉèÖÃÓÃ»§Ãû
-git config --global user.email ""    ÉèÖÃÓÊÏä
-git config user.name     ²é¿´ÓÃ»§Ãû
-git config user.email    ²é¿´ÓÊÏä
-git config --global user.name "" ĞŞ¸ÄÓÃ»§Ãû
-git config --global user.email ""  ĞŞ¸ÄÓÊÏä
-git init Éú³É.gitÎÄ¼ş¼Ğ
-git add test1.txtÌí¼Ó²¢Ìá½»ÎÄ¼ş
-ssh-keygen -t rsa -C "1426321293@qq.com"  Éú³ÉsshÃÜÔ¿
-3£ºÔ¶³ÌÌá½»
+ä¸‹é¢æ˜¯ä¸€äº›é…ç½®è¯­æ³•ï¼š
+git config --global user.name ""   è®¾ç½®ç”¨æˆ·å
+git config --global user.email ""    è®¾ç½®é‚®ç®±
+git config user.name     æŸ¥çœ‹ç”¨æˆ·å
+git config user.email    æŸ¥çœ‹é‚®ç®±
+git config --global user.name "" ä¿®æ”¹ç”¨æˆ·å
+git config --global user.email ""  ä¿®æ”¹é‚®ç®±
+git init ç”Ÿæˆ.gitæ–‡ä»¶å¤¹
+git add test1.txtæ·»åŠ å¹¶æäº¤æ–‡ä»¶
+ssh-keygen -t rsa -C "1426321293@qq.com"  ç”Ÿæˆsshå¯†é’¥
+3ï¼šè¿œç¨‹æäº¤
 
-Ìí¼ÓĞÂµÄÔ¶³Ì²Ö¿â
+æ·»åŠ æ–°çš„è¿œç¨‹ä»“åº“
 
 $git remote add origin https://github.com/JiekeXu0/Mytest.git
 
-ÆäÖĞºìÉ«²¿·ÖµÄ URL ÊÇ GitHub ÖĞµÄ SSH
-Ô¶³ÌÌá½»£ºgit push origin master
-
+å…¶ä¸­çº¢è‰²éƒ¨åˆ†çš„ URL æ˜¯ GitHub ä¸­çš„ SSH
+è¿œç¨‹æäº¤ï¼šgit push origin master
+gité‡Œæœ‰ä»“åº“(repository)å’Œbranch(åˆ†æ”¯)çš„æ¦‚å¿µï¼Œä»“åº“ï¼Œå³ä¸€ä¸ªé¡¹ç›®ï¼Œé‡Œé¢å¯ä»¥åŒ…æ‹¬å›¾ç‰‡ã€ä»£ç ã€æ–‡ä»¶ç­‰ï¼Œåˆ†æ”¯ï¼Œå³ç›¸å½“äºä¸€ä¸ªé¡¹ç›®çš„ä¸åŒç‰ˆæœ¬ï¼Œä¿®æ”¹ä¸€ä¸ªåˆ†æ”¯çš„æ–‡ä»¶ä¿¡æ¯ä¸ä¼šå½±å“å¦ä¸€ä¸ªåˆ†æ”¯ã€‚
 
 
